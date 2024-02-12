@@ -8,7 +8,6 @@
 
 function chessboard(l) {
   let riga = "";
-
   for (let j = 0; j < l; j++) {
     if (j % 2 == 0) {
       for (let i = 0; i < l; i++) {

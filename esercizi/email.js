@@ -8,7 +8,6 @@ let email = [
   "monsieur.dorleac@chateudif.fr",
   "fernando.mondego@morcef.fr",
 ];
-
 function createMapping(arr) {
   let res = {};
   for (let i = 0; i < arr.length; i++) {
